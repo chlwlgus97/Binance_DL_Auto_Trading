@@ -32,6 +32,7 @@
 
 #### Binance 지갑 정보
 - api_key 와 api_secret key 정보를 입력한 후 코드 이용가능 아래와 같은 정보 확인
+
 ![image](https://github.com/chlwlgus97/Binance_DL_Auto_Trading/assets/130372088/924931e6-cf72-48c7-813c-954e0b13230d)
 
 #### Web 화면에서 현재 자산 정보 확인 가능(GCP 사용 현재 상태 : OFF)
