@@ -36,7 +36,7 @@
 ![image](https://github.com/chlwlgus97/Binance_DL_Auto_Trading/assets/130372088/924931e6-cf72-48c7-813c-954e0b13230d)
 
 #### Web 화면에서 현재 자산 정보 확인 가능(GCP 사용 현재 상태 : OFF)
-- wordpress를 활용하여 web으로 데이터 시각화
+- wordpress를 활용하여 Web으로 데이터 시각화
 - 사이트 주소 : http://35.216.66.247/wordpress/
 ![image](https://github.com/chlwlgus97/Binance_DL_Auto_Trading/assets/130372088/d641eeef-b0fc-4fdc-907f-b9a2161a0a65)
 
