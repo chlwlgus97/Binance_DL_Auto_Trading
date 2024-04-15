@@ -5,6 +5,9 @@
 # 프로젝트 일정 :
 ![image](https://github.com/chlwlgus97/Project_Binance_DL_Auto_Trading/assets/130372088/4db8ada1-af22-4bda-ab10-2ef84e366976)
 # 
+# 프로젝트에서 활용한 툴
+![image](https://github.com/chlwlgus97/Project_Binance_DL_Auto_Trading/assets/130372088/5d134dba-9e91-45e3-a4f5-939d0274dfa1)
+#
 ## Get_Coin_CandleData
 ##### 암호화폐 종목별 캔들 데이터를 CSV파일로 수집 가능 코드(다수 종목 및 단일 종목, 날짜 지정 가능)
 ### 결과물
