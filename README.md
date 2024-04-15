@@ -3,7 +3,7 @@
 # 프로젝트 인원 : 4인
 # 프로젝트 기간 : 2023.12 ~ 2024.03
 # 프로젝트 일정 :
-![image](https://github.com/chlwlgus97/Project_Binance_DL_Auto_Trading/assets/130372088/7a928e80-a9c7-4800-b9e7-378635723f06)
+![image](https://github.com/chlwlgus97/Project_Binance_DL_Auto_Trading/assets/130372088/4db8ada1-af22-4bda-ab10-2ef84e366976)
 # 
 ## Get_Coin_CandleData
 ##### 암호화폐 종목별 캔들 데이터를 CSV파일로 수집 가능 코드(다수 종목 및 단일 종목, 날짜 지정 가능)
