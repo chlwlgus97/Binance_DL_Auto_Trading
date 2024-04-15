@@ -7,9 +7,14 @@
 # 
 ## Binance_DL_Binance-main
 ##### BTC, ETH, XRP 3종목 암호화폐 학습 모델 코드
+### 분류 모델 정확도 시각화
+![image](https://github.com/chlwlgus97/Project_Binance_DL_Auto_Trading/assets/130372088/f01eb428-9eea-42dc-9f13-a7277ab5fdf4)
+### 회귀 모델 정확도 시각화
+![image](https://github.com/chlwlgus97/Project_Binance_DL_Auto_Trading/assets/130372088/b93cf7ed-3bd6-48eb-a42b-1bd65177b271)
 # 
 ## Binance_DL_Auto_Trading-main
 ##### 딥러닝 알고리즘을 사용한 모델을 활용하여 BTC, ETH, XRP 주가 예측과 실시간 트레이딩 코드
+![image](https://github.com/chlwlgus97/Project_Binance_DL_Auto_Trading/assets/130372088/e1123b3e-5f46-4e33-86ab-db7c976d238e)
 # 
 ## WP_Web
 ##### 워드프레스를 활용하여 웹 페이지 구현 코드
