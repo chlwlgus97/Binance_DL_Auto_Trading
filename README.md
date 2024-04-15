@@ -3,6 +3,7 @@
 # 
 ## Get_Coin_CandleData
 ##### 암호화폐 종목별 캔들 데이터를 CSV파일로 수집 가능 코드(다수 종목 및 단일 종목, 날짜 지정 가능)
+![image](https://github.com/chlwlgus97/Project_Binance_DL_Auto_Trading/assets/130372088/38c7ede0-8aa7-45e2-91c5-884ec1a9d2bd)
 # 
 ## Binance_DL_Binance-main
 ##### BTC, ETH, XRP 3종목 암호화폐 학습 모델 코드
