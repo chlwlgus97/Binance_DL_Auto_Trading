@@ -26,6 +26,6 @@
 ![image](https://github.com/chlwlgus97/Project_Binance_DL_Auto_Trading/assets/130372088/e1123b3e-5f46-4e33-86ab-db7c976d238e)
 # 
 # WP_Web
-### 워드프레스를 활용하여 웹 페이지 구현 코드
+### 워드프레스를 활용하여 웹 페이지 구현
 ## 결과물
 ![WP_Web](https://github.com/chlwlgus97/Project_Binance_DL_Auto_Trading/assets/130372088/d9cbe9ef-76c8-46f3-92e0-6650afe01642)
